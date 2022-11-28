@@ -1,0 +1,69 @@
+.AutoResponder{
+    font-size: 55px;
+    font-family: Bookman Old Style;
+    font-weight: 150px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.AutoResponder-one{
+    text-align: center;
+    font-family: Bookman Old Style;
+    margin-bottom: 20px;
+}
+
+.AutoResponder-two{
+    text-align: left;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-three{
+    text-align: left;
+    font-family: Bookman Old Style;
+   
+    
+}
+
+.AutoResponder-four{
+    text-align: left;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-five{
+    text-align: left;
+    font-family: Bookman Old Style;
+    margin-bottom: 30px;
+}
+
+.AutoResponder-six{
+    text-align: center;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-seven{
+    text-align: left;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-eight{
+    text-align: left;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-nine{
+    text-align: left;
+    font-family: Bookman Old Style;
+}
+
+.AutoResponder-ten{
+    text-align: center;
+    font-family: Bookman Old Style;
+    margin-bottom: 15px;
+}
+
+.footer{
+    background-color: #33ccc5;
+    color: black;
+    font-weight: bolder;
+}
